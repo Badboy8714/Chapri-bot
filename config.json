@@ -35,23 +35,23 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61566369721724"
+    "100075925273970"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61566369721724"
+      "100075925273970"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "ADRIYAN 卝 ARYAN࿐ツ",
+  "nickNameBot": "Khan bot",
   "prefix": "/",
-  "ArYanapi": "https://aryan-rest-api.onrender.com",
+  "ArYanapi": "https://team-hopeless.zapto.org",
   "api": "",
   "api2": "",
   "api3": "",
-  "authorName": "ArYan 🤡",
-  "facebook2": "https://www.facebook.com/raj.vai.404",
+  "authorName": "Khan",
+  "facebook2": "https://www.facebook.com/100075925273970",
   "facebook": "https://www.facebook.com/ArYan.com.404",
   "email": "adriyanaryan@yahoo.com",
   "replit": "https://replit.com/@ARYAN-BOT",
